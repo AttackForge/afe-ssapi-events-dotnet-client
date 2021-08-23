@@ -1,5 +1,5 @@
 # AttackForge Enterprise Self-Service Events API
-## .NET 5.0 Client v0.0.1
+## .NET 5.0 Client v1.0.0
 
   * [Git](https://github.com/AttackForge/afe-ssapi-events-dotnet-client.git)
   * [Support](https://support.attackforge.com/attackforge-enterprise/modules/self-service-events-api/getting-started)
